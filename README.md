@@ -34,7 +34,7 @@ I am tracking my daily consistency using the interactive checklist below. Each c
 
 ### 📂 Phase 1: Core Node.js Fundamentals 🌐
 - [x] **Lecture 3:** First Node Server ⚡ *(Built an HTTP server, handled local port 3001 successfully!)*
-- [ ] **Lecture 4:** Request & Response 🔄
+- [X] **Lecture 4:** Request & Response 🔄
 - [ ] **Lecture 5:** Parsing Request 📥
 - [ ] **Lecture 6:** Event Loop and Async Code ⏱️
 - [ ] **Lecture 7:** NPM and Tools 🛠️
