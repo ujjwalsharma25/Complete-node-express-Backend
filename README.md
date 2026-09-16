@@ -4,7 +4,7 @@ Welcome to my backend engineering hub! 🔥 This repository is a dedicated space
 
 ---
 
-## 📝 Project Description 📑
+## 📝 Description 📑
 This repository serves as a **live, step-by-step documentation** of my backend coding journey. Moving away from boring, standard theoretical learning, I am highly focused on building a rock-solid foundation in **Node.js, Express.js, and MongoDB** by writing clean, modular, and industry-standard code every single day. 💪
 
 ### 🌟 Core Learning Goals:
