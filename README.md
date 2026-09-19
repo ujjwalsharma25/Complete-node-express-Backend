@@ -36,7 +36,7 @@ I am tracking my daily consistency using the interactive checklist below. Each c
 - [x] **Lecture 3:** First Node Server ⚡ *(Built an HTTP server, handled local port 3001 successfully!)*
 - [X] **Lecture 4:** Request & Response 🔄
 - [x] **Lecture 5:** Parsing Request 📥
-- [ ] **Lecture 6:** Event Loop and Async Code ⏱️
+- [x] **Lecture 6:** Event Loop and Async Code ⏱️
 - [ ] **Lecture 7:** NPM and Tools 🛠️
 - [ ] **Lecture 8:** Errors and Debugging 🪲
 
