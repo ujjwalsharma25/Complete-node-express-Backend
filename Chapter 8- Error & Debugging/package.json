@@ -1,0 +1,16 @@
+{
+  "name": "error-and-debugging",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Ujjwal Sharma",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
