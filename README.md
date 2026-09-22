@@ -36,17 +36,17 @@ I am tracking my daily consistency using the interactive checklist below. Each c
 - [x] **Lecture 3:** First Node Server ⚡ *(Built an HTTP server, handled local port 3001 successfully!)*
 - [X] **Lecture 4:** Request & Response 🔄
 - [x] **Lecture 5:** Parsing Request 📥
-- [x] **Lecture 6:** Event Loop and Async Code ⏱️
-- [ ] **Lecture 7:** NPM and Tools 🛠️
-- [ ] **Lecture 8:** Errors and Debugging 🪲
+- [X] **Lecture 6:** Event Loop and Async Code ⏱️
+- [X] **Lecture 7:** NPM and Tools 🛠️
+- [X] **Lecture 8:** Errors and Debugging 🪲
 
 ### 📂 Phase 2: Express.js & Architecture Patterns 🏗️
-- [ ] **Lecture 9:** Introduction to Express.js 🚀
-- [ ] **Lecture 10:** Express.js Deep Dive 🌊
-- [ ] **Lecture 11:** Styling using Tailwind 🎨
-- [ ] **Lecture 12:** Dynamic UI using EJS 🖼️
-- [ ] **Lecture 13:** MVC Architecture Pattern 📐
-- [ ] **Lecture 14:** Dynamic Paths (Part 1 & 2) 🛤️
+- [X] **Lecture 9:** Introduction to Express.js 🚀
+- [X] **Lecture 10:** Express.js Deep Dive 🌊
+- [X] **Lecture 11:** Styling using Tailwind 🎨
+- [X] **Lecture 12:** Dynamic UI using EJS 🖼️
+- [X] **Lecture 13:** MVC Architecture Pattern 📐
+- [X] **Lecture 14:** Dynamic Paths (Part 1 & 2) 🛤️
 
 ### 📂 Phase 3: Databases & Production API Development ⚡
 - [ ] **Lecture 15:** Introduction to SQL 📊
