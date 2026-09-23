@@ -10,7 +10,6 @@ const hostRouter = require("./routes/hostRouter")
 const rootDir = require("./utils/pathUtil");
 const errorsController = require("./Controllers/error");
 
-
 const app = express();
 
 app.set('view engine', 'ejs');
@@ -24,7 +23,8 @@ app.use(express.static(path.join(rootDir, 'public')))
 
 app.use(errorsController.pageNotFound);
 
-/* const PORT = 5001;
+
+const PORT = 5001;
 app.listen(PORT, () => {
   console.log(`Server running on address http://localhost:${PORT}`);
-}); */
+});
