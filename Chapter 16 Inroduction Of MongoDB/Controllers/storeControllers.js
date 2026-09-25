@@ -22,12 +22,9 @@ exports.getHomes = (req, res, next) => {
 };
 
 exports.getBookings = (req, res, next) => {
-  Home.fetchAll().then((registeredHomes) => {
-    res.render("store/booking", {
-      registeredHomes: registeredHomes,
-      pageTitle: "My Bookings",
-      currentPage: "bookings",
-    });
+  res.render("store/bookings", {
+    pageTitle: "My Bookings",
+    currentPage: "bookings",
   });
 };
 

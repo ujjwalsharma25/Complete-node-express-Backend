@@ -49,13 +49,13 @@ I am tracking my daily consistency using the interactive checklist below. Each c
 - [X] **Lecture 14:** Dynamic Paths (Part 1 & 2) 🛤️
 
 ### 📂 Phase 3: Databases & Production API Development ⚡
-- [ ] **Lecture 15:** Introduction to SQL 📊
-- [ ] **Lecture 16:** Introduction to MongoDB 🍃
-- [ ] **Lecture 17:** Introduction to Mongoose 🔗
-- [ ] **Lecture 18:** Cookies and Sessions 🍪
-- [ ] **Lecture 19:** Authentication & Authorization 🔐
-- [ ] **Lecture 20:** File Upload & Download 📁
-- [ ] **Lecture 21:** REST API & JSON Requests 📡
+- [X] **Lecture 15:** Introduction to SQL 📊
+- [X] **Lecture 16:** Introduction to MongoDB 🍃
+- [X] **Lecture 17:** Introduction to Mongoose 🔗
+- [X] **Lecture 18:** Cookies and Sessions 🍪
+- [X] **Lecture 19:** Authentication & Authorization 🔐
+- [X] **Lecture 20:** File Upload & Download 📁
+- [X] **Lecture 21:** REST API & JSON Requests 📡
 
 ---
 

@@ -24,7 +24,7 @@ app.use(express.static(path.join(rootDir, 'public')))
 
 app.use(errorsController.pageNotFound);
 
-const PORT = 5001;
+/*const PORT = 5001; */
 const DB_PATH = "mongodb+srv://Your_Username:Your_Password@your-cluster.your-domain.mongodb.net/your-database";
 
 mongoose.connect(DB_PATH).then(() => {
