@@ -5,7 +5,7 @@ const path = require('path');
 const express = require('express');
 const { default: mongoose } = require('mongoose');
 const cors = require('cors');
-const DB_PATH = "mongodb+srv://ujjwalsharma952860_db_user:hC5VUm93cwVoRGRv@completecoading.yhfzixb.mongodb.net/?appName=CompleteCoading";
+const DB_PATH = yourMongoDBConnectionString; // Replace with your MongoDB connection string
 
 //Local Module
 const todoItemsRouter = require("./routes/todoItemsRouter")
